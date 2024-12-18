@@ -1,0 +1,11 @@
+name: DarkRift
+version: '0.0.1'
+main: io.github.juststicky.darkrift.DarkRift
+api-version: '1.21.4'
+
+commands:
+  fly:
+    description: Makes you fly
+    aliases:
+      - flight
+      - f
